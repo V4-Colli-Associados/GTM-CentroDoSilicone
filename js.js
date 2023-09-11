@@ -172,3 +172,4 @@ function showpop() {
     "https://centrodosilicone.com.br/wp-content/uploads/2023/08/logo-centro-silicone-branca.svg", // URL da imagem que sera a foto do perfil do whatsapp//
     "Centro do Silicone" // Nome da empresa//
   );
+  console.log("GitHub ativo")
